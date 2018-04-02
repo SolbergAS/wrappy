@@ -1,0 +1,17 @@
+body {
+    background-color: #999999; /* #242f44; */
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+	padding-top:4px;
+}
+
+.logo {
+	padding-right: 4px;
+}
+
+header {
+	font-size: 105%;
+}
